@@ -1,4 +1,4 @@
-
+```
 
 # Example usage
 pdf_path = "example.pdf"
